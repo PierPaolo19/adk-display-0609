@@ -3,7 +3,7 @@
 Vue.js frontend for the ADK streaming AI assistant with voice, text, and PDF document display capabilities.
 
 ## Features
-
+This project is tested with BrowserStack.
 - **Real-time Text Chat**: Send and receive text messages through Server-Sent Events (SSE)
 - **Voice Communication**: Full-duplex audio streaming with microphone input and audio playback
 - **PDF Document Display**: View and navigate PDF documents with page controls
